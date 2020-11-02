@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaed1a6d-61e3-4440-a7e3-a24a0ab9f7b3" name="Default Changelist" comment="" />
+    <list default="true" id="eaed1a6d-61e3-4440-a7e3-a24a0ab9f7b3" name="Default Changelist" comment="This is a test for learning to do comit with phpstorm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-html_advanced/0-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-html_advanced/0-index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +63,16 @@
       <option name="presentableId" value="Default" />
       <updated>1604288171775</updated>
       <workItem from="1604288175374" duration="555000" />
-      <workItem from="1604288748293" duration="1608000" />
+      <workItem from="1604288748293" duration="2242000" />
     </task>
+    <task id="LOCAL-00001" summary="This is a test for learning to do comit with phpstorm">
+      <created>1604294729351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604294729351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +134,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is a test for learning to do comit with phpstorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a test for learning to do comit with phpstorm" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="357" y="24" key="#Options" timestamp="1604293980837">
       <screen x="0" y="0" width="1366" height="728" />
@@ -116,10 +155,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604288730082" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1604294506905">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1604294810020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604294506905" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604294810020" />
     <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604294621714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
