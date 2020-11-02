@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaed1a6d-61e3-4440-a7e3-a24a0ab9f7b3" name="Default Changelist" comment="add changes in README.md">
+    <list default="true" id="eaed1a6d-61e3-4440-a7e3-a24a0ab9f7b3" name="Default Changelist" comment="Update of README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x00-html_advanced/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-html_advanced/README.md" afterDir="false" />
     </list>
@@ -72,7 +72,7 @@
       <updated>1604288171775</updated>
       <workItem from="1604288175374" duration="555000" />
       <workItem from="1604288748293" duration="2993000" />
-      <workItem from="1604327712542" duration="8085000" />
+      <workItem from="1604327712542" duration="8894000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test for learning to do comit with phpstorm">
       <created>1604294729351</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604336118903</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update of README.md">
+      <created>1604350046068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604350046068</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +193,8 @@
     <MESSAGE value="create meta, links and add favicon" />
     <MESSAGE value="create a readme and add favicon.ico" />
     <MESSAGE value="add changes in README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add changes in README.md" />
+    <MESSAGE value="Update of README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update of README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="357" y="24" key="#Options" timestamp="1604293980837">
@@ -205,10 +213,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604328359256" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1604336130797">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1604350056474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604336130797" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604350056474" />
     <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604294621714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

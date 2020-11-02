@@ -1,21 +1,25 @@
-#Advanced HTML
+Advanced HTML
+--
+
 ![Project image](https://borjaarandavaquero.b-cdn.net/wp-content/uploads/2019/12/que-es-html.jpg)
 
 In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t
 worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.
 Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
 
-##Resources
+Resources 
+--
 
-##** Read or watch **
+>** Read or watch **
+--
 - [HTML 5.2](https://intranet.hbtn.io/rltoken/0qrWxRjFnohd-DMZwIakuA)
-- [HTML](https://intranet.hbtn.io/rltoken/M-CcOLx8YG8znnc4qxSscg) HyperText Markup Language | MDN
-HTML Reference - A free guide to all HTML elements and attributes
-Can I use… Support tables for HTML5, CSS3, etc
-HTML Cheat Sheet - WebsiteSetup
+- [HTML HyperText Markup Language | MDN](https://intranet.hbtn.io/rltoken/M-CcOLx8YG8znnc4qxSscg)  
+- [HTML Reference - A free guide to all HTML elements and attributes](https://intranet.hbtn.io/rltoken/5O-P-PsGJ5tXOOmKZwTNvg)
+- [Can I use… Support tables for HTML5, CSS3, etc](https://intranet.hbtn.io/rltoken/qonyw8QCI9Bf8jjiib9tug)
+- [HTML Cheat Sheet - WebsiteSetup](https://intranet.hbtn.io/rltoken/IL-IEL5JBB6FuDME5oZNRQ)
 
-##Learning Objectives
------
+Learning Objectives
+--
 - Which guidelines to follow for HTML
 - How to create the skeleton of an HTML5 page
 - How to use semantic HTML tags to structure a web page
