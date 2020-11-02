@@ -1,12 +1,14 @@
-0x00. Advanced HTML
-Resources
+#0x00. Advanced HTML
+##Resources
 HTML 5.2
 HTML: HyperText Markup Language | MDN
 HTML Reference - A free guide to all HTML elements and attributes
 Can I use… Support tables for HTML5, CSS3, etc
 HTML Cheat Sheet - WebsiteSetup
-Learning Objectives
-Which guidelines to follow for HTML
+
+##Learning Objectives
+
+Which guidelines to follow for HTML 
 How to create the skeleton of an HTML5 page
 How to use semantic HTML tags to structure a web page
 Which use cases to use div vs span
