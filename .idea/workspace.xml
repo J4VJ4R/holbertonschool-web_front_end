@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaed1a6d-61e3-4440-a7e3-a24a0ab9f7b3" name="Default Changelist" comment="This is a test for learning to do comit with phpstorm">
+    <list default="true" id="eaed1a6d-61e3-4440-a7e3-a24a0ab9f7b3" name="Default Changelist" comment="add head and body tags">
+      <change afterPath="$PROJECT_DIR$/0x00-html_advanced/2-index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x00-html_advanced/0-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-html_advanced/0-index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +49,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x00-html_advanced" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\holberton\0x00-html_advanced" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604288171775</updated>
       <workItem from="1604288175374" duration="555000" />
-      <workItem from="1604288748293" duration="2242000" />
+      <workItem from="1604288748293" duration="2993000" />
+      <workItem from="1604327712542" duration="4962000" />
     </task>
     <task id="LOCAL-00001" summary="This is a test for learning to do comit with phpstorm">
       <created>1604294729351</created>
@@ -72,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604294729351</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create a simple structure html without content">
+      <created>1604295363188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604295363188</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add head and body tags">
+      <created>1604331662661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604331662661</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,10 +153,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is a test for learning to do comit with phpstorm" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is a test for learning to do comit with phpstorm" />
+    <MESSAGE value="Create a simple structure html without content" />
+    <MESSAGE value="add head and body tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="add head and body tags" />
   </component>
   <component name="WindowStateProjectService">
     <state x="357" y="24" key="#Options" timestamp="1604293980837">
@@ -151,14 +174,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="559" y="266" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604294319321" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1604288730082">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1604328359256">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604288730082" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1604294810020">
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604328359256" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1604331698783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604294810020" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604331698783" />
     <state x="500" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604294621714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
