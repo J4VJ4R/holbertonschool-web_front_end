@@ -7,14 +7,15 @@
 
 - [Description](#description)
 - [Resources](#resources)
--
-## Description
+- [Learning Objetives](#learning-objectives)
+- [Tecnologies](#technologies)
+### Description
 
 In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t
 worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.
 Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
 
-## Resources 
+### Resources 
 
 
 >Read or watch
@@ -26,7 +27,7 @@ Important note: details are important! lowercase vs uppercase / wrong letter… 
 - [HTML Cheat Sheet - WebsiteSetup](https://intranet.hbtn.io/rltoken/IL-IEL5JBB6FuDME5oZNRQ)
 
 
-## Learning Objectives
+### Learning Objectives
 
 - Which guidelines to follow for HTML
 - How to create the skeleton of an HTML5 page
@@ -44,6 +45,4 @@ Important note: details are important! lowercase vs uppercase / wrong letter… 
 
 ### Technologies
 
-- HTML5
-- CSS
-- GIT
+- HTML
