@@ -17,12 +17,12 @@ body {
     color: var(--font-family-base);
 }
 
-body. a {
-    color: var(--text-color);
-}
-
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
+}
+
+body. a {
+    color: var(--text-color);
 }
 
 .visually-hidden {
