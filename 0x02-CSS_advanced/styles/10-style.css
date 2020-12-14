@@ -44,5 +44,5 @@ body, a {
     color: var(--color-primary);
 }
 .section-header{
-    horiz-align: var(--section-header-align);
+    text-align: var(--section-header-align);
 }
