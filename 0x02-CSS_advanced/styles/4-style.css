@@ -17,22 +17,20 @@ body {
     color: var(--font-family-base);
 }
 
-a {
+body. a {
     color: var(--text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-title);
 }
 
 .visually-hidden {
     display: none;
 }
 
-.card-category {
+.card-category, .section-tagline {
     color: var(--color-primary);
 }
 
-.section-tagline {
-    color: #D73953;
-}
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-family-title);
-}
