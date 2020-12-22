@@ -19,7 +19,6 @@
     --color-primary: #D73953;
     --color-black:  #090909;
     --color-white: #ffffff;
-    --color-grey: #a0a0a0;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
 
@@ -175,6 +174,10 @@ a:active {
 /* Grid
     ============================= */
 
+.row {
+    display: flex;
+}
+
 ul.row {
     margin: -1rem;
     padding: 0;
@@ -192,19 +195,16 @@ ul.row {
 .col-1-2 {
     width: calc((100% / 2) - 2rem);
 }
-.row{
-    display: flex;
-}
 
 /* Navbar
     ============================= */
 
 .nav {
+    display: flex;
     margin: 0;
     padding: 0;
     list-style: none;
     text-align: center;
-    display: flex;
 }
 
 .nav .nav-item {
@@ -213,6 +213,7 @@ ul.row {
     font-size: var(--nav-item-font-size);
     letter-spacing: var(--nav-item-letter-spacing);
 }
+
 .nav .nav-item + .nav-item {
     margin: var(--nav-item-margin);
 }
@@ -246,17 +247,14 @@ ul.row {
 
 /* Header
     ============================= */
-
 .header {
     padding: var(--header-padding);
-    position: relative;
-    z-index: 3;
-    background: transparent !important;
 }
-.header-container{
+
+.header-container {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
 }
 
 /* Footer
@@ -344,14 +342,14 @@ ul.row {
 
 .section-hero {
     position: relative;
-    margin-top: -8.5rem;
+    padding-top: -8.5rem;
 }
+
 .section-hero .section-body {
     padding: 10rem 4rem;
-
 }
 
-.section-hero .section-category{
+.section-hero .section-category {
     color: var(--color-white);
     text-transform: uppercase;
 }
@@ -375,24 +373,21 @@ ul.row {
     min-height: 50vh;
 }
 
-/* Section Latest news
-    ============================= */
-
-.section-latest-news .row {
+/* Section BLOG
+     ============================= */
+.section-blog .row {
     flex-direction: row-reverse;
 }
 
 /* Section SERVICES
     ============================= */
-
 .section-services .row {
     flex-wrap: wrap;
 }
 
 /* Section ABOUT US
     ============================= */
-
-.section-about-us [class*='col-'] {
+.section-about-us [class^="col"] {
     align-self: center;
 }
 
@@ -523,38 +518,10 @@ ul.row {
     font-size: 10rem;
     z-index: -1;
 }
+
 /*** ARTICLE PAGE ***/
 /* Section HERO (article)
     ============================= */
-
-.hero-article {
-    background-size: 150rem 100rem;
-    background-position: 50% 0;
-}
-.hero-article::before {
-    content: "";
-    background: rgba(0, 0, 0, 0.8);
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    z-index: 0;
-}
-.hero-article .section-inner {
-    text-align: center;
-    align-items: center;
-    min-height: 40vh;
-}
-.section-article .section-body {
-    position: relative;
-    padding: 7rem 0 0;
-    z-index: 2;
-}
-/*** ARTICLE PAGE ***/
-/* Section HERO (article)
-    ============================= */
-
 .hero-article {
     background-size: 150rem 100rem;
     background-position: 50% 0;
@@ -565,9 +532,9 @@ ul.row {
     background: rgba(0, 0, 0, 0.8);
     position: absolute;
     top: 0;
-    right: 0;
-    left: 0;
     bottom: 0;
+    left: 0;
+    right: 0;
     z-index: 0;
 }
 
