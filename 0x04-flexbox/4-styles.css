@@ -337,22 +337,15 @@ a:active {
 
 /* Grid
     ============================= */
-.row {
-    display: flex;
-}
 
 ul.row {
-    margin: -1rem;
+    margin: 0;
     padding: 0;
     list-style: none;
 }
 
-.row::after {
-
-}
-
 [class*='col-'] {
-    margin: 1rem;
+    padding: 0.5rem;
 }
 
 .col-1-3 {
@@ -360,7 +353,11 @@ calc((100 % / 3) - 2 rem)
 }
 
 .col-1-2 {
-calc((100 % / 2) - 2 rem)
+    width: 50%;
+}
+
+.row {
+    display: flex;
 }
 
 /* Navbar
@@ -420,7 +417,7 @@ calc((100 % / 2) - 2 rem)
     padding: var(--header-padding);
     position: relative;
     z-index: 3;
-    background: transparent;
+    background: transparent !important;
 }
 
 .header-logo {
@@ -532,9 +529,10 @@ calc((100 % / 2) - 2 rem)
     padding: 10rem 40rem 2rem 0;
 }
 
-/* Section Latest news ============================= */
+/* Section Latest news
+    ============================= */
 
-.row {
+.section-latest-news .row {
     flex-direction: row-reverse;
 }
 
