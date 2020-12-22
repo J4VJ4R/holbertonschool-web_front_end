@@ -549,18 +549,22 @@ ul.row {
     padding: 7rem 0 0;
     z-index: 2;
 }
-.main-article{
+
+.main-article {
     padding: 5rem 0;
 }
+
 /* Post
-    ============================= */
-.post{
+  ============================= */
+.post {
     display: flex;
 }
-.post-content{
+
+.post-content {
     width: 100%;
 }
-.post-aside{
+
+.post-aside {
     order: -1;
     min-width: 20%;
 }
