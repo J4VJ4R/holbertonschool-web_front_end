@@ -1,0 +1,48 @@
+/* ================ set button ================*/
+
+.btn-primary{
+    background-color: #E0003C;
+}
+.btn-primary:focus,
+.btn-primary:hover,
+.btn-primary:active{
+    background-color: #BC1340 !important;
+    border-color: #BC1340;
+    color: #ffffff;
+}
+.btn-outline-primary{
+    color: #E0003C;
+    border-color: #E0003C;
+}
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary:active{
+    box-shadow: none;
+    background-color: #BC1340;
+    color: white;
+}
+/* ================ set link ================*/
+
+a.text-dark:link,
+a.text-dark:focus,
+a.text-dark:hover{
+    color: #E0003C !important;
+    text-decoration: none;
+}
+.text-muted{
+    color: #8C8C8C;
+}
+/* ================ set card ================*/
+.card{
+    border: 1px solid #E0003C;
+    border-radius: 1rem;
+}
+.card-header{
+    border-color: #E0003C;
+    border-radius: 1rem;
+    background-color: #E0003C;
+    color: white !important;
+}
+.card-header:first-child{
+    border-radius: calc(1rem - 3px) calc(1.03rem - 3px) 0 0;
+}
