@@ -36,7 +36,7 @@ JavaScript is a text-based programming language used both on the client-side and
 
 This project is only for reading, also if possible you can downloading for your exercise or academic task.
 
-[Back to the top](#Description)
+[Back to the top](#description)
 ---
 ### Author info ✒️
 
