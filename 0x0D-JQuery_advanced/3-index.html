@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+
+  <meta charset="utf-8" />
+  <title>Task 0</title>
+
+</head>
+
+<body>
+  <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+    integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+  <script type="application/javascript">
+    $(document).ready(function () {
+      function createFamilyTree(){
+        $('body').append("<table>");
+        $('table').append("<thead>", "<tbody>");
+        $('thead').append("<tr>");
+        $('tbody').append("<tr>", "<tr>", "<tr>");
+        $('tr').eq(0).append('<th>', '<th>');
+        $('tr').eq(1).append('<td>', '<td>');
+        $('tr').eq(2).append('<td>', '<td>');
+        $('tr').eq(3).append('<td>', '<td>');
+        $('th').eq(0).text('Firstname');
+        $('th').eq(1).text('Lastname');
+        $('td').eq(0).text('Guillaume');
+        $('td').eq(1).text('Salva ');
+        $('td').eq(2).text('Paulette ');
+        $('td').eq(3).text('Salva');
+        $('td').eq(4).text('Antoine ');
+        $('td').eq(5).text('Salva');
+      };
+      createFamilyTree();
+    });
+  </script>
+</body>
+
+</html>
